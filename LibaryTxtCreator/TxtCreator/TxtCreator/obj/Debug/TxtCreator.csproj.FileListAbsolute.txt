@@ -1,0 +1,23 @@
+C:\Users\HGMI2\Desktop\TxtCreator\TxtCreator\TxtCreator\bin\Debug\TxtCreator.dll
+C:\Users\HGMI2\Desktop\TxtCreator\TxtCreator\TxtCreator\bin\Debug\TxtCreator.pdb
+C:\Users\HGMI2\Desktop\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.csprojAssemblyReference.cache
+C:\Users\HGMI2\Desktop\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.csproj.CoreCompileInputs.cache
+C:\Users\HGMI2\Desktop\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.dll
+C:\Users\HGMI2\Desktop\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.pdb
+C:\Users\HGMI2\Desktop\Libraries\TxtCreator\TxtCreator\TxtCreator\bin\Debug\TxtCreator.dll
+C:\Users\HGMI2\Desktop\Libraries\TxtCreator\TxtCreator\TxtCreator\bin\Debug\TxtCreator.pdb
+C:\Users\HGMI2\Desktop\Libraries\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.csprojAssemblyReference.cache
+C:\Users\HGMI2\Desktop\Libraries\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.csproj.CoreCompileInputs.cache
+C:\Users\HGMI2\Desktop\Libraries\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.dll
+C:\Users\HGMI2\Desktop\Libraries\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.pdb
+A:\Nocz\Proyectos\Libraries\TxtCreator\TxtCreator\TxtCreator\bin\Debug\TxtCreator.dll
+A:\Nocz\Proyectos\Libraries\TxtCreator\TxtCreator\TxtCreator\bin\Debug\TxtCreator.pdb
+A:\Nocz\Proyectos\Libraries\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.csprojAssemblyReference.cache
+A:\Nocz\Proyectos\Libraries\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.csproj.CoreCompileInputs.cache
+A:\Nocz\Proyectos\Libraries\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.dll
+A:\Nocz\Proyectos\Libraries\TxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.pdb
+A:\Nocz\Proyectos programación C#\LibaryTxtCreator\TxtCreator\TxtCreator\bin\Debug\TxtCreator.dll
+A:\Nocz\Proyectos programación C#\LibaryTxtCreator\TxtCreator\TxtCreator\bin\Debug\TxtCreator.pdb
+A:\Nocz\Proyectos programación C#\LibaryTxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.csprojAssemblyReference.cache
+A:\Nocz\Proyectos programación C#\LibaryTxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.dll
+A:\Nocz\Proyectos programación C#\LibaryTxtCreator\TxtCreator\TxtCreator\obj\Debug\TxtCreator.pdb
